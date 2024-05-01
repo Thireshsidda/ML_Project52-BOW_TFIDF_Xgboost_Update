@@ -47,7 +47,7 @@ Validation F1-score: 0.8008
 The character level TF-IDF model achieved the highest validation F1-score of 0.8008, indicating its effectiveness in capturing meaningful patterns in text data.
 
 ### Dependencies
-``
+```
 Python 3
 pandas
 scikit-learn
